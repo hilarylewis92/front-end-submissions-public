@@ -16,7 +16,7 @@
  -[Commits](https://github.com/hilarylewis92/jetFuel/commits/master)
  
 #### Screenshot of your Application
- -[image](https://cloud.githubusercontent.com/assets/18403177/22384375/45e323ba-e48b-11e6-9519-414e2e21833e.png)
+ -[app](https://cloud.githubusercontent.com/assets/18403177/22384375/45e323ba-e48b-11e6-9519-414e2e21833e.png)
  
 ## Completion
  
@@ -35,7 +35,8 @@
  * Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
  
 #### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-   
+    -[tests](https://files.slack.com/files-tmb/T029P2S9M-F3WTHQUG1-fc78e952dc/screen_shot_2017-01-27_at_12.33.50_pm_1024.png)
+
 #### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
  
  -----
