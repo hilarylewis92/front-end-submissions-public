@@ -16,7 +16,7 @@
  -[Commits](https://github.com/hilarylewis92/jetFuel/commits/master)
  
 #### Screenshot of your Application
- <img width="716" alt="screen shot 2017-01-26 at 9 07 47 pm" src="">
+ -[image](https://cloud.githubusercontent.com/assets/18403177/22384375/45e323ba-e48b-11e6-9519-414e2e21833e.png)
  
 ## Completion
  
